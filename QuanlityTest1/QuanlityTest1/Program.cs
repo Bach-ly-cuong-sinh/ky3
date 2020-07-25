@@ -29,7 +29,8 @@ namespace QuanlityTest1
                 switch (check){
                     case 1 :
                         Console.WriteLine("1.Them moi sinh vien");
-                        stc.CreateStudent();
+                        var a= stc.CreateStudent();
+                        lst.Add(a);
                         Console.WriteLine("Them moi thanh cong");
                         break;
                     case 2 :
