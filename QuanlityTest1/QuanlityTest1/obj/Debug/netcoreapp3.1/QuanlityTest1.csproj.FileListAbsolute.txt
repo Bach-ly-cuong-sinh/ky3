@@ -1,0 +1,13 @@
+G:\Ky\QuanlityTest1\QuanlityTest1\bin\Debug\netcoreapp3.1\QuanlityTest1.exe
+G:\Ky\QuanlityTest1\QuanlityTest1\bin\Debug\netcoreapp3.1\QuanlityTest1.deps.json
+G:\Ky\QuanlityTest1\QuanlityTest1\bin\Debug\netcoreapp3.1\QuanlityTest1.runtimeconfig.json
+G:\Ky\QuanlityTest1\QuanlityTest1\bin\Debug\netcoreapp3.1\QuanlityTest1.runtimeconfig.dev.json
+G:\Ky\QuanlityTest1\QuanlityTest1\bin\Debug\netcoreapp3.1\QuanlityTest1.dll
+G:\Ky\QuanlityTest1\QuanlityTest1\bin\Debug\netcoreapp3.1\QuanlityTest1.pdb
+G:\Ky\QuanlityTest1\QuanlityTest1\obj\Debug\netcoreapp3.1\QuanlityTest1.csprojAssemblyReference.cache
+G:\Ky\QuanlityTest1\QuanlityTest1\obj\Debug\netcoreapp3.1\QuanlityTest1.AssemblyInfoInputs.cache
+G:\Ky\QuanlityTest1\QuanlityTest1\obj\Debug\netcoreapp3.1\QuanlityTest1.AssemblyInfo.cs
+G:\Ky\QuanlityTest1\QuanlityTest1\obj\Debug\netcoreapp3.1\QuanlityTest1.csproj.CoreCompileInputs.cache
+G:\Ky\QuanlityTest1\QuanlityTest1\obj\Debug\netcoreapp3.1\QuanlityTest1.dll
+G:\Ky\QuanlityTest1\QuanlityTest1\obj\Debug\netcoreapp3.1\QuanlityTest1.pdb
+G:\Ky\QuanlityTest1\QuanlityTest1\obj\Debug\netcoreapp3.1\QuanlityTest1.genruntimeconfig.cache
